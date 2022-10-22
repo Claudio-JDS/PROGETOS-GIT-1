@@ -1,4 +1,4 @@
 # PROGETOS GIT-1
- Primeiro repositorio versionado
+ Primeiro repositório versionado
 
- Repositorio criado para teste
+ Repositório criado para teste
